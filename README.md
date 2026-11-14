@@ -1,28 +1,28 @@
-# Anik Kumar — Developer Portfolio
+# Anik Kumar — Founder & Product Builder Portfolio
 
-A personal portfolio for Anik Kumar: developer, app builder, and AI enthusiast.
+A responsive dark portfolio for Anik Kumar, founder of Tube Pilot and an independent product builder.
 
-## About
-I build mobile app and web projects while exploring practical uses of AI. My work includes Flutter/Dart applications and React-based web interfaces, with AI tools supporting research, prototyping, and implementation.
+## Portfolio sections
+- Cinematic, CSS-rendered hero using the existing founder portrait
+- Selected projects with category filters and accessible project-detail dialogs
+- About, process and current technology toolkit
+- Contact and verified social/product links
+- Project reel dialog with a transparent note that a video showreel has not been published
 
-## Featured work
-- **Tube Pilot** — An AI-assisted YouTube creator workflow product focused on planning, optimization, scheduling, and growth.
-- **Promt Beta / PromptVerse** — A ready-to-use AI prompt library concept.
-- **Nexa Browser** — An AI-first browser experiment built around a mobile WebView experience.
+## Featured projects
+- **Tube Pilot** — AI-assisted YouTube creator workflow product.
+- **Promt Beta / PromptVerse** — ready-to-use AI prompt library concept.
+- **Nexa Browser** — AI-first mobile browser experiment.
 
-## Contact and links
-- Website: https://www.tubepilot.shop/
-- LinkedIn / professional profile: https://www.linkedin.com/in/bharatcloudtechnologies
-- Tube Pilot Instagram: https://www.instagram.com/tubepilot.app
-- Tube Pilot on X: https://x.com/TubePilotApp
-
-Product social accounts are identified as product accounts, not personal profiles. A verified personal email and personal social links have not yet been provided.
+## Accuracy
+This is a visual redesign, not a change to Anik's identity or professional claims. The existing name, founder context, portrait, projects, skills and links are retained. No 3D artist credits, client work, showreel video, software proficiency or production statistics have been invented. The visual effects are CSS artwork; no WebGL or Three.js is loaded, keeping the page accessible and lightweight.
 
 ## Run locally
 Open `index.html` in a browser. No build step or package installation is required.
 
-## Deployment
-This is a static site and can be hosted with GitHub Pages or another static host. Set the final canonical URL and sitemap URL only after choosing the public portfolio domain.
-
-## Accuracy
-This portfolio intentionally avoids unverified claims about education, employment history, years of experience, awards, or certifications.
+## Links
+- Tube Pilot: https://www.tubepilot.shop/
+- GitHub: https://github.com/AnikKumarDevloper
+- LinkedIn / professional profile: https://www.linkedin.com/in/bharatcloudtechnologies
+- Tube Pilot Instagram: https://www.instagram.com/tubepilot.app
+- Tube Pilot on X: https://x.com/TubePilotApp
